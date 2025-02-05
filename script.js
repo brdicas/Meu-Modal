@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Pega os elementos do DOM
     const modal = document.getElementById("myModal");
-    const spanClose = document.getElementsByClassName("closee")[0];
+    const spanClosee = document.getElementsByClassName("closee")[0];
 
     // Verifica se está em dispositivo móvel
     if (window.innerWidth <= 768) {
