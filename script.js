@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         setTimeout(function() {
             modal.style.display = "block";
             spanClosee.style.display = "block"; // Mostra o botão de fechar
-        }, 40000); // 10000 milissegundos = 10 segundos
+        }, 47000); // 10000 milissegundos = 10 segundos
     }
 
     // Quando o usuário clica no "x", fecha o modal
