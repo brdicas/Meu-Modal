@@ -16,7 +16,7 @@
     background-color: #fefefe;
     position: absolute; /* Posição absoluta para centralizar */
     left: 50%;
-    top: 60%;
+    top: 50%;
     transform: translate(-50%, -50%) scale(0.8); /* Centraliza e escala o conteúdo do modal */
     padding: 20px;
     border: 1px solid #888;
