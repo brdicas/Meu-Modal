@@ -2,7 +2,7 @@
 .modal {
     display: none; /* Escondido por padrão */
     position: fixed; /* Fixa na tela */
-    z-index: 99999999; /* Fica na frente */
+    z-index: 99999999999999; /* Fica na frente */
     left: 0;
     top: 0;
     width: 100%;
